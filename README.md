@@ -25,9 +25,9 @@ So If you have any problem with knowing about repos maye you find your answer he
 
 
 
-## My Repo
+## My Repo 
 
-> (24 results for **source** repositories)
+> (24 results for **source** repositories) 
 
 1. [MyGit-Info](https://github.com/JARVIS-AI/MyGit-Info)
 2. [SortAlgo](https://github.com/JARVIS-AI/SortAlgo)
@@ -53,6 +53,10 @@ So If you have any problem with knowing about repos maye you find your answer he
 22. [Reverse Shell](https://github.com/JARVIS-AI/Reverse-Shell)
 23. [Christmas Day Tree](https://github.com/JARVIS-AI/ChristmasTree)
 24. [Operator Mono Font Style for Atom](https://github.com/JARVIS-AI/Operator-MonoStyle)
+
+=================
+
+![img](https://img.shields.io/badge/NumberofRepo-24-%2361456A.svg?longCache=true&style=plastic)
 
 
 
