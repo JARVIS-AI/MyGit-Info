@@ -27,6 +27,8 @@ So If you have any problem with knowing about repos maye you find your answer he
 
 ## My Repo
 
+> (24 results for **source** repositories)
+
 1. [MyGit-Info](https://github.com/JARVIS-AI/MyGit-Info)
 2. [SortAlgo](https://github.com/JARVIS-AI/SortAlgo)
 3. [macOS Useful Script](https://github.com/JARVIS-AI/macOSUsefullScripts)
@@ -47,6 +49,10 @@ So If you have any problem with knowing about repos maye you find your answer he
 18. [My Linux Dot Files](https://github.com/JARVIS-AI/MyDotFiles)
 19. [Installing Antergos Linux](https://github.com/JARVIS-AI/Installing-Antergos)
 20. [Arch Installation n552vw-A](https://github.com/JARVIS-AI/Arch-Installation-n552vw-A)
+21. [Other Subject and Articles](https://github.com/JARVIS-AI/OtherSubjects)
+22. [Reverse Shell](https://github.com/JARVIS-AI/Reverse-Shell)
+23. [Christmas Day Tree](https://github.com/JARVIS-AI/ChristmasTree)
+24. [Operator Mono Font Style for Atom](https://github.com/JARVIS-AI/Operator-MonoStyle)
 
 
 
@@ -78,11 +84,11 @@ I explain some of them :
 
 ## The END
 
-Thanks to who help me to get grow, get knowledge, feed me, help me, loves me, ecouraged me, raise me, make me, hard me  
+Thanks to who help me to grow me, get knowledge for me, feed me, help me, loves me, ecouraged me, raise me, make me, make me  
 
-to good man, friends with me, like me, teach me, litrate me and so on.
+good & helpful & cool person, friends with me, like me, teach me, litrate me and so on. 😉
 
-Spciall Thanks to : 🙏🏻
+Special Thanks to : 🙏🏻
 
 My Mother , Father 😇
 
